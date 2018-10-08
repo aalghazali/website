@@ -1,2 +1,4 @@
 # My Website
-Hello peoples! This is my personal website where I am constantly updating it. I hope you enjoy your time here!
+Greetings!
+
+This is my portfolio website. In it, you'll find my projects that I have worked on over the years of my web development career. I hope you like what you see!
